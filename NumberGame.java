@@ -103,7 +103,7 @@ public class NumberGame{
 	    System.out.println("Number is between 100 and 999");
 	    System.out.println("Ready to guess???\nPress '1' to guess the number\nPress '2' to get a hint");
 	    code = sc.nextInt();
-	    NUM = 777;
+	    
 	    START:
 	    do{
     	    switch(code){
